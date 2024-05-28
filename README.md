@@ -28,4 +28,6 @@
 
 ## License
 
+* MIT _Year_
+
 ## Contact Information
